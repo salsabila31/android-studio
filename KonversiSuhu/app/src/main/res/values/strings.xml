@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KonversiSuhu</string>
+    <string-array name="pilihan">
+        <item>Celcius to Reamur</item>
+        <item>Celcius to Farenheit</item>
+        <item>Celcius to Kelvin</item>
+        <item>Reamur to Celcius</item>
+        <item>Reamur to Farenheit</item>
+        <item>Reamur to Kelvin</item>
+        <item>Farenheit to Reamur</item>
+        <item>Farenheit to Celcius</item>
+        <item>Farenheit to Kelvin</item>
+        <item>Kelvin to Celcius</item>
+        <item>Kelvin to Farenheit</item>
+        <item>Kelvin to Reamur</item>
+    </string-array>
+</resources>
